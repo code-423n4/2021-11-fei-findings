@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "jierlich",
+  "address": "0x08c6CAB5Bf0ae77833C5CBf8d2dd934a9253CD7B",
+  "risk": "G",
+  "title": "PegExchanger.giveTo - Gas Optimization",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/36"
+}
