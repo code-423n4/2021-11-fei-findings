@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "takeFrom uses transferFrom instead of safeTransferFrom",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/32"
+}
