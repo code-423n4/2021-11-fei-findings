@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "robee",
+  "address": "itaiperetz59@gmail.com",
+  "risk": "G",
+  "title": "Unused state variables",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/23"
+}
