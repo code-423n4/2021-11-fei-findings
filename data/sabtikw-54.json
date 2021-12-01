@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "sabtikw",
+  "address": "0xDA062abA66ECCD16f293D7fa22335b9AF335cAE0",
+  "risk": "G",
+  "title": "small gas usage improvement reducing deployment gas",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/54"
+}
