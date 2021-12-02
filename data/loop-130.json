@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "G",
+  "title": "Boolean comparisons in require statements",
+  "issueId": 130,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/130"
+}
