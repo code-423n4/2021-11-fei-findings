@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "0x0x0x",
+  "address": "0x3Ca8C469ff8156eeBB1518FA631bf8ebc5EE0688",
+  "risk": "G",
+  "title": "Some public functions can be defined as external to save gas",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/132"
+}
