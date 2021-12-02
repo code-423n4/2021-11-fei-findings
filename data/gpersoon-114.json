@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Oracle validity not checked in requery() / TRIBERagequit.sol",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/114"
+}
