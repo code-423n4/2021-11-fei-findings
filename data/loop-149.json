@@ -1,0 +1,9 @@
+{
+  "contest": "Fei Protocol contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "1",
+  "title": "PegExchanger expiry block must be set to at least `MIN_EXPIRY_WINDOW + 1` into the future",
+  "issueId": 149,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fei-findings/issues/149"
+}
